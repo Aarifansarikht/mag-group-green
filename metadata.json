@@ -1,0 +1,7 @@
+{
+  "name": "MAG Group new",
+  "description": "Leading manufacturer of high-performance drainage solutions and structural steel systems in Qatar and UAE.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
